@@ -3,12 +3,12 @@ importScripts('https://www.gstatic.com/firebasejs/10.13.2/firebase-messaging-com
 
 // 本ファイルはビルドを通らないので、バックグラウンド用の設定が必要
 firebase.initializeApp({
-    apiKey: "AIzaSyCO0leHI_zVN1v3goC082WlHjLKZqokUGo",
-    authDomain: "web-push-9092f.firebaseapp.com",
-    projectId: "web-push-9092f",
-    storageBucket: "web-push-9092f.firebasestorage.app",
-    messagingSenderId: "139283173258",
-    appId: "1:139283173258:web:e587d24efebb93a9518273"
+    apiKey: "AIzaSyBxqZiv5BLYapzXGcGPapwUikgM041EHPU",
+    authDomain: "web-push2-c5731.firebaseapp.com",
+    projectId: "web-push2-c5731",
+    storageBucket: "web-push2-c5731.firebasestorage.app",
+    messagingSenderId: "643412835670",
+    appId: "1:643412835670:web:4aa5c8629e410b38ae6af7"
 });
 
 
