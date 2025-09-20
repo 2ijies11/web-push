@@ -1,11 +1,11 @@
 export const firebaseConfig = {
-  apiKey: "AIzaSyCO0leHI_zVN1v3goC082WlHjLKZqokUGo",
-  authDomain: "web-push-9092f.firebaseapp.com",
-  databaseURL: 'https://web-push-9092f-default-rtdb.firebaseio.com',
-  projectId: "web-push-9092f",
-  storageBucket: "web-push-9092f.firebasestorage.app",
-  messagingSenderId: "139283173258",
-  appId: "1:139283173258:web:e587d24efebb93a9518273"
+  apiKey: "AIzaSyBxqZiv5BLYapzXGcGPapwUikgM041EHPU",
+  authDomain: "web-push2-c5731.firebaseapp.com",
+  databaseURL: "https://web-push2-c5731-default-rtdb.firebaseio.com",
+  projectId: "web-push2-c5731",
+  storageBucket: "web-push2-c5731.firebasestorage.app",
+  messagingSenderId: "643412835670",
+  appId: "1:643412835670:web:4aa5c8629e410b38ae6af7"
 };
 
-export const vapidKey = 'BA6W3CGTBY1jquHmverqNnGjqa3LD322qCU6qipyzFT8CtHQZhlPoZY15WlZUVnSF_xEVdaUyX_0Ni407pnJ8Ps';
+export const vapidKey = 'BNEaOBpxJojjbWms0nkq2oevWWbWOFCAWHqBml1JOE914Zsq4oIFhvxJIPhHdBcHy-DF3BmNoH3fb14tEyjhmbc';
